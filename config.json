@@ -14,7 +14,7 @@
         "blog_name" : "AV",
         "signin_img" : "AV.jpg",
         "admin_user" : "vadnere.atharva@gmail.com",
-        "admin_password" : "Atharva@26",
+        ,
         "upload_location" : "E:\\FLASK\\Flask VS\\Pract\\static"
         
     }
