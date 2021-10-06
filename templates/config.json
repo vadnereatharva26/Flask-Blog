@@ -1,0 +1,13 @@
+{
+
+    "params":
+    {
+        "local_sever": "True",
+        "local_uri" : "mysql://root:@localhost/atharva",
+        "prod_uri" : "mysql://root:@localhost/atharva",
+        "tw_url" : "twitter.com/atharva",
+        "fb_url" : "facebook.com/atharva",
+        "gh_url" : "github.com/atharva"
+    }
+
+}
